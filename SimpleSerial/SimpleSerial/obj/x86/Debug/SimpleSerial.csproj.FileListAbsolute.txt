@@ -1,0 +1,233 @@
+C:\Users\gotoole\Desktop\Cs\SimpleSerial\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Desktop\Cs\SimpleSerial\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Desktop\Cs\SimpleSerial\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Desktop\Cs\SimpleSerial\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Desktop\Cs\SimpleSerial\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Desktop\Cs\SimpleSerial\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Desktop\Cs\SimpleSerial\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Desktop\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Desktop\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Desktop\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Desktop\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Desktop\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Desktop\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Desktop\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Documents\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM4xR2\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Documents\Cs\DULPSM\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Documents\Cs\DULPSM\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojResolveAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\BTLE_ULP_UART\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\BTLE_ULP_UART\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\BTLE_ULP_UART\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojResolveAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\BTLE_ULP_UART\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\BTLE_ULP_UART\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\BTLE_ULP_UART\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Documents\Cs\BTLE_ULP_UART\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\BTLE_ULP_UART\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\Generac\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\Generac\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\Generac\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\Generac\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\Generac\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojResolveAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\Generac\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\Generac\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\Generac\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Documents\Cs\Generac_DSDK\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\Generac_DSDK\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\Generac_DSDK\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\Generac_DSDK\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\Generac_DSDK\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojResolveAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\Generac_DSDK\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\Generac_DSDK\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\Generac_DSDK\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojResolveAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Desktop\New folder (2)\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Desktop\New folder (2)\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Desktop\New folder (2)\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Desktop\New folder (2)\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Desktop\New folder (2)\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojResolveAssemblyReference.cache
+C:\Users\gotoole\Desktop\New folder (2)\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Desktop\New folder (2)\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Desktop\New folder (2)\Cs\DULPSM_DSDK_0.4\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.41\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.41\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.41\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.41\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.41\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojResolveAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.41\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.41\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.41\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.42\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.42\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.42\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.42\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.42\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.42\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.42\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.Cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.42\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.42\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.50 - Copy (2)\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.52\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.52\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.52\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.52\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.52\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.52\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.52\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.52\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.52\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.53\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csprojAssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.60\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.61\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.62\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.63\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.64 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.65 - Copy\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+C:\Users\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe.config
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.exe
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\bin\Debug\SimpleSerial.pdb
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.AssemblyReference.cache
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Form1.resources
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.Properties.Resources.resources
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.GenerateResource.cache
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.csproj.CoreCompileInputs.cache
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.exe
+E:\gotoole\Documents\Cs\DULPSM_DSDK_0.66\SimpleSerial\SimpleSerial\obj\x86\Debug\SimpleSerial.pdb
